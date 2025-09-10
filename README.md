@@ -11,6 +11,19 @@ The analysis leverages multiple tools:
 
 ---
 
+## Table of Contents
+- [Project Objectives](#project-objectives)
+- [Project Steps](#project-steps)
+  - [SQL Data Processing](#1-sql-data-processing-bigquery)
+  - [Tableau Public](#2-tableau-public)
+  - [R Analysis](#3-r-analysis)
+- [Key Findings](#key-findings)
+- [Conclusion](#conclusion)
+- [Reference & Acknowledgement](#reference--acknowledgement)
+- [License](#license)
+
+---
+
 ## Project Objectives
 
 The goal of this project is to transform raw transactional data into meaningful business insights. Specifically, we aimed to:
@@ -21,7 +34,7 @@ The goal of this project is to transform raw transactional data into meaningful 
 - Highlight potential VIPs and at-risk customers for targeted campaigns
 - Provide visual insights to support strategic decisions in sales and marketing
 
-By achieving these objectives, businesses can make informed decisions on inventory planning, marketing strategy, and customer engagement initiatives.
+Achieving these objectives enables businesses to make informed decisions on inventory planning, marketing strategies, and customer engagement initiatives.
 
 ---
 
