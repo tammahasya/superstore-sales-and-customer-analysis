@@ -49,11 +49,12 @@ These clean datasets were then saved as CSVs for direct use in Tableau and R.
 
 ### 2. Tableau Interactive Dashboards
 
-Tableau Public was used to create interactive dashboards for visual exploration and insights. The dashboards provide an overview of revenue trends, product performance, and regional and segment-based sales.  
+Tableau Public was used to create interactive dashboards for visual exploration and insights. The dashboards provide an overview of revenue trends, product performance, and regional and segment-based sales. 
+The dashboard can be accessed [here](https://public.tableau.com/shared/FKBK62RR5?:display_count=n&:origin=viz_share_link).
 
 #### Dashboard 1: Revenue Trends and Best-Selling Products
 
-![Dashboard 1](Tableau/Revenue Trends and Best-Selling Products.png)
+![Dashboard 1](Tableau/Revenue%20Trends%20and%20Best-Selling%20Products.png)
 
 The **monthly sales trends** show an overall increasing pattern, though mixed with short-term downward fluctuations. Noticeable spikes occur between **September and January**, likely driven by holiday seasons and promotional campaigns.  
 
@@ -68,7 +69,7 @@ Inventory for these categories is relatively balanced, but attention should focu
 
 #### Dashboard 2: Regional and Customer Segment Performance
 
-![Dashboard 2](Tableau/Regional and Customer Segment Performance.png)
+![Dashboard 2](Tableau/Regional%20and%20Customer%20Segment%20Performance.png)
 
 This dashboard highlights **regional and segment-based performance**. California leads in sales, followed by New York and Texas. These high-performing regions could benefit from targeted marketing and inventory optimization.  
 
@@ -102,9 +103,9 @@ This visualization allows marketing teams to **segment customers for personalize
 ## Key Findings
 
 - **Revenue Trends:** Monthly sales are generally increasing, with spikes between **September and January** each year.  
-- **Top Products & Categories:** Canon imageCLASS 2200 Advanced Copier drives major sales for Consumer and Corporate segments. Phones, Chairs, and Storage categories are strong performers.  
-- **Customer Segmentation:** Consumer segment dominates, followed by Home Office and Corporate, correlating with top products.  
-- **Regional Performance:** California, New York, and Texas are top revenue contributors.  
+- **Top Products & Categories:** Canon imageCLASS 2200 Advanced Copier drives major sales for **Consumer** and **Corporate** segments. Phones, Chairs, and Storage categories are strong performers.  
+- **Customer Segmentation:** **Consumer** segment dominates, followed by **Home Office** and **Corporate**, correlating with top products.  
+- **Regional Performance:** **California**, **New York**, and **Texas** are top revenue contributors.  
 - **Customer Targeting:** VIPs (high frequency and spending) can benefit from loyalty perks, while at-risk customers should receive re-engagement campaigns.  
 
 ---
