@@ -7,7 +7,7 @@ This project explores the Superstore Sales Dataset from [Kaggle](https://www.kag
 The analysis leverages multiple tools:
 - **SQL (BigQuery):** for data cleaning, aggregation, and metrics
 - **Tableau Public:** for interactive visualizations, regional performance, and dashboards
-- **R (tidyverse & ggplot2):** for customer segmentation, top products per segment, and advanced visualizations
+- **R (tidyverse):** for customer segmentation, top products per segment, and advanced visualizations
 
 ---
 
@@ -47,7 +47,7 @@ These clean datasets were then saved as CSVs for direct use in Tableau and R.
 
 ---
 
-### 2. Tableau Interactive Dashboards
+### 2. Tableau Public
 
 Tableau Public was used to create interactive dashboards for visual exploration and insights. The dashboards provide an overview of revenue trends, product performance, and regional and segment-based sales. 
 The dashboard can be accessed [here](https://public.tableau.com/shared/FKBK62RR5?:display_count=n&:origin=viz_share_link).
