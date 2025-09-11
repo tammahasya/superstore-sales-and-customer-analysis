@@ -2,7 +2,7 @@
 
 **A Data-Driven Look at Revenue, Products, and Customer Segments for Smarter Business Decisions**  
 
-Retailers collect mountains of sales data every year — but turning that data into *actionable insights* is where the real value lies.  
+Retailers collect abundant of sales data every year, but turning that data into *actionable insights* is where the real value lies.  
 
 In this project, I analyzed the **Superstore Sales Dataset** from [Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting) to uncover:  
 
@@ -17,7 +17,7 @@ The analysis combines three perspectives:
 - **Tableau Public:** Building interactive dashboards for revenue, product, and regional performance  
 - **R (tidyverse):** Deep-diving into product trends and customer segmentation  
 
-Together, these tools helped transform messy transactional data into clear business recommendations, like **when to stock up on phones before Black Friday** or **how to retain high-value customers with loyalty programs**.  
+Together, these tools helped transform transactional data into clear business recommendations, like **when to stock up on phones before Black Friday** or **how to retain high-value customers with loyalty programs**.  
 
 ---
 
