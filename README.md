@@ -98,7 +98,31 @@ R was used to perform **detailed customer segmentation and product analysis**. U
 
 ![Products by Segment](R/products_by_segment.png)
 
-This stacked bar chart shows total sales for top products across each segment. The **Canon imageCLASS 2200 Advanced Copier** is the most bought for both Consumer and Corporate segment while the **Cisco TelePresence System EX90 Videoconferencing Unit** is only bought from Home Office category which makes sense as home office would need video conferencing unit for online meeting purposes. These insights support **inventory allocation decisions** and **segment-specific marketing campaigns**.
+This stacked bar chart shows total sales for top products across each segment. The **Canon imageCLASS 2200 Advanced Copier** is the most bought for both Consumer and Corporate segment while the **Cisco TelePresence System EX90 Videoconferencing Unit** is only bought from Home Office category which makes sense as home office would need video conferencing unit for online meeting purposes.  
+
+However, is Canon imageCLASS 2200 Advanced Copier often bought monthly? By using R, we can analyze the monthly trend for this item:
+
+![Canon Copier Trend](R/Canon_imageCLASS_Trend.png)
+
+From the trend above, this item is only bought 5 times throughout 2017 to 2019, which means we did not need to increase inventory for this particular item. Then, what the inventory should focus on? From the best category / sub-category dashboard, *Phones* sub-category is the most bought item. Let’s visualize:
+
+![Phones Sales Trend](R/Phone_Monthly_Sales.png)  
+![Phones Count Trend](R/Phones_Monthly_Order_Count.png)
+
+From these two visualizations, **phones are steadily increasing**, with noticeable sales spikes every **November**, which likely correlates with seasonal events in the US such as **Black Friday** and **Cyber Monday**. This suggests that inventory for phones should be increased leading into Q4 each year.
+
+But which phones are driving this growth? To answer this, we looked at the top 5 most purchased phone products:
+
+![Best 5 Phones](R/best_5_phones.png)
+
+Interestingly, while the *Phones* subcategory overall shows an upward trend, **individual phone models do not maintain consistent growth**. Most models sell strongly in certain years but then decline, likely due to **product lifecycle dynamics** (new models replacing old ones, tech obsolescence, changing preferences).  
+
+**Key Insight:**  
+- Inventory strategies should focus on **maintaining a broad and refreshed selection of phones**, rather than overstocking one or two "star" models.  
+- Demand is steady at the subcategory level, but shifts quickly at the product level.  
+- Businesses should plan for **shorter product lifespans**, anticipate **seasonal spikes**, and rotate stock frequently to align with customer preferences.  
+
+
 
 #### Customer Spending vs Frequency
 
