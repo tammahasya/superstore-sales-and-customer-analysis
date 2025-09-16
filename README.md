@@ -160,6 +160,8 @@ This visualization allows marketing teams to **segment customers for personalize
 ## Conclusion
 
 By integrating **SQL**, **Tableau**, and **R**, this project provides an **inclusive view of Superstore sales and customer behavior**. Insights from this analysis inform **inventory management, marketing strategies, and customer retention programs**, enabling businesses to make data-driven decisions that optimize revenue and engagement.
+All data can be found here:
+[Github](https://github.com/tammahasya/superstore-sales-and-customer-analysis.git)
 
 ---
 
